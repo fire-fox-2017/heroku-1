@@ -1,0 +1,5 @@
+https://sheltered-island-29372.herokuapp.com/cool
+
+https://sheltered-island-29372.herokuapp.com/times
+
+https://sheltered-island-29372.herokuapp.com/db
