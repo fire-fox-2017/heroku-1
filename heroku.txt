@@ -1,0 +1,4 @@
+http://tes-app-aldyadk1.herokuapp.com/
+http://tes-app-aldyadk1.herokuapp.com/cool
+http://tes-app-aldyadk1.herokuapp.com/times
+http://tes-app-aldyadk1.herokuapp.com/db
