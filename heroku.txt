@@ -1,0 +1,4 @@
+https://warm-coast-41216.herokuapp.com/db
+https://warm-coast-41216.herokuapp.com/times
+https://warm-coast-41216.herokuapp.com/cool
+https://warm-coast-41216.herokuapp.com
